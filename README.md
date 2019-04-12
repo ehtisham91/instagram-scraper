@@ -10,6 +10,7 @@ For running program, follow below steps
 ```bash
 $ virtualenv venv
 $ source venv/bin/activate
+```
 
 >> After activating virtual environment, Install all dependencies / packages
 
