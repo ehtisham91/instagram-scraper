@@ -11,4 +11,4 @@ target_username = 'username'
 Path = 'C:\\Users\\Downloads\\pics'
 
 #path of chrome driver
-Driver_path = 'C:\\Users\\Downloads\\pics'
+Driver_path = 'C:\\Users\\Downloads\\chromedriver.exe'
